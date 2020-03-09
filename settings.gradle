@@ -1,0 +1,2 @@
+rootProject.name='MyAplicationRich'
+include ':app'

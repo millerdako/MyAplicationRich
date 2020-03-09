@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAplicationRich</string>
+    <string name="title">I am a Rich!</string>
+    <string name="pie">Desarrollado por Miller</string>
+</resources>
